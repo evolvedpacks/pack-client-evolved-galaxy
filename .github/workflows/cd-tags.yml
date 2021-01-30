@@ -1,0 +1,46 @@
+name: CD Tags
+
+on:
+  push:
+    tags:
+    - '*'
+
+jobs:
+
+  build:
+    
+    runs-on: ubuntu-latest
+
+    steps:
+    
+    - name: Set up Hub
+      run: sudo snap install hub --classic
+
+    - name: Set up Zip
+      run: sudo apt install -y zip
+
+    - name: Repository Checkout
+      uses: actions/checkout@v2
+
+    - name: Assemble Zip
+      run: |
+        zip -r -9 evg-client-$(git describe --tags --abbrev=0).zip \
+          bin/** config/** mods/** resourcepacks/**
+
+    - name: Deploy to Releases
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: 'hub release create
+          -a ./evg-client-$(git describe --tags --abbrev=0).zip
+          -F ./CHANGELOG.md
+          $(git describe --tags --abbrev=0)'
+
+    - name: Deploy to Download Trunk
+      env:
+        CDN_UPLOAD_SECRET: ${{ secrets.CDN_UPLOAD_SECRET }}
+      run: |
+        curl \
+          -X PUT \
+          -H "Authorization: Basic $CDN_UPLOAD_SECRET" \
+          -F "file=@evg-client-$(git describe --tags --abbrev=0).zip" \
+          https://cdn.zekro.de/modpacks/evolved-galaxy/trunk/client/latest.zip
