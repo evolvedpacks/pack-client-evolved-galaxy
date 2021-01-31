@@ -1,3 +1,6 @@
-1.1.0+205
+1.2.0+206
 
-• init
+• update mod Alchemistry
+• update mod Optifine
+
+• update config Custom Main Menu
