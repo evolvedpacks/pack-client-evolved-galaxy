@@ -1,6 +1,5 @@
-1.2.0+206
+1.2.1+208
 
-• update mod Alchemistry
-• update mod Optifine
+• add missing files
 
 • update config Custom Main Menu
