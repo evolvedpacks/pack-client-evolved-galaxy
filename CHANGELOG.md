@@ -1,5 +1,6 @@
-1.2.1+208
+1.2.2+210
 
-• add missing files
-
+• update config Default Options
 • update config Custom Main Menu
+• update config Galacticraft
+• update config Galacticraft Tweaks
