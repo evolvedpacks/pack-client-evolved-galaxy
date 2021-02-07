@@ -1,6 +1,6 @@
-1.2.2+210
+1.3.0+212
 
-• update config Default Options
+• update mod Extreme Reactors
+• update mod Zero Core
+
 • update config Custom Main Menu
-• update config Galacticraft
-• update config Galacticraft Tweaks
