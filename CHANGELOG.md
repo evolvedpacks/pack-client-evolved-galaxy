@@ -1,6 +1,5 @@
-1.4.1+218
+1.5.0+220
 
-• update mod Forge Discord RPC
+• update mod Ore Stone Variants
 
 • update config Custom Main Menu
-• update config Forge Discord RPC
