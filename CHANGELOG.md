@@ -1,5 +1,5 @@
-1.5.0+220
-
-• update mod Ore Stone Variants
+1.6.0+222
 
 • update config Custom Main Menu
+• update config Journey Map
+• update config Ore Stone Variants
