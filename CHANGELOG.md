@@ -1,7 +1,13 @@
-1.9.0+230
+1.10.0+232
 
-• update mod Mystical Lib
-• update mod Ore Stone Variants
+• add mod Floralis
+
+• add config Floralis
+
+• update mod Lazy Applied Energistics 2
 
 • update config Custom Main Menu
-• update config Tool Swap
+
+• remove mod Pam's Weee! Flowers
+
+• remove config Pam's Weee! Flowers
