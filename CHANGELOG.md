@@ -1,15 +1,13 @@
-1.19.0+252
+1.20.0+256
 
-• update mod Floralis
+• add mod Galactic Computers
+• add mod Open Computers ICBM Addon
+• add mod Open Computers XNet Driver
+
+• remove mod Large Fluid Tanks
+
+• add config Open Computers XNet Driver
 
 • update config Custom Main Menu
-• update config Galacticraft Tweaks
-• update config More Planets
-• update config Ore Stone Variants
 
-• revert mod Galacticraft Core to previous build
-• revert mod Galacticraft Planets to previous build
-• revert mod Micdoodle Core to previous build
-
-• fix #2
-• fix #3
+• remove config Large Fluid Tanks
