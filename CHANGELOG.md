@@ -1,13 +1,19 @@
-1.20.0+256
+1.21.0+260
 
-• add mod Galactic Computers
-• add mod Open Computers ICBM Addon
-• add mod Open Computers XNet Driver
+• update mod Asmodeus Core
+• update mod Brandons Core
+• update mod Custom Loading Screen
+• update mod Draconic Evolution
+• update mod Extra CPUs
+• update mod Floralis
+• update mod Galactic Computers
+• update mod Galactic Tweaks
+• update mod Galaxy Space
+• update mod JAOPCA
+• update mod Mystical Lib
+• update mod Tesla Core Lib
 
-• remove mod Large Fluid Tanks
-
-• add config Open Computers XNet Driver
-
+• update config Custom Loading Screen
 • update config Custom Main Menu
-
-• remove config Large Fluid Tanks
+• update config Draconic Evolution
+• update config Galactic Tweaks
