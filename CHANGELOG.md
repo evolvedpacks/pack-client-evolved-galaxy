@@ -1,19 +1,11 @@
-1.21.0+260
+1.22.0+262
 
-• update mod Asmodeus Core
-• update mod Brandons Core
-• update mod Custom Loading Screen
-• update mod Draconic Evolution
-• update mod Extra CPUs
-• update mod Floralis
-• update mod Galactic Computers
-• update mod Galactic Tweaks
-• update mod Galaxy Space
-• update mod JAOPCA
-• update mod Mystical Lib
-• update mod Tesla Core Lib
+• add mod Not Enough Energistics
 
-• update config Custom Loading Screen
+• update mod Hammer Lib
+
+• remove mod Just Enough Energistics
+
+• add config Not Enough Energistics
+
 • update config Custom Main Menu
-• update config Draconic Evolution
-• update config Galactic Tweaks
