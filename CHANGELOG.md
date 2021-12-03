@@ -1,11 +1,15 @@
-1.22.0+262
+1.23.0+266
 
-• add mod Not Enough Energistics
+• update mod Aroma Backup S3
+• update mod Asmodeus Core
+• update mod Draconic Additions
+• update mod Galaxy Space
+• update mod Interstellar Exoplanets
+• update mod Lib Nine
+• update mod Not Enough Energistics
 
-• update mod Hammer Lib
-
-• remove mod Just Enough Energistics
-
-• add config Not Enough Energistics
-
+• update config Aroma Backup S3
+• update config Asmodeus Core
 • update config Custom Main Menu
+• update config Draconic Additions
+• update config Galaxy Space
