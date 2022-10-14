@@ -1,20 +1,25 @@
-1.26.0+272
+1.27.0+274
 
-• add mod AE2 Utilities
-• add mod Better Fusion Reactor
+• add mod Galacticraft Legacy
+
+• add config Better Fusion Reactor
 
 • update mod Asmodeus Core
-• update mod Floralis
-• update mod Galactic Tweaks
+• update mod Better Fusion Reactor
+• update mod Custom Loading Screen
+• update mod Foam Fix
 • update mod Galaxy Space
-• update mod Hammer Lib
-• update mod Interstellar Exoplanets
 • update mod Mixin Booter
-• update mod Not Enough Energistics
-• update mod Steve KunG's Lib
+• update mod More Planets
+• update mod Open Computers
 
-• update config Asmodeus Core
+• update config Custom Loading Screen
 • update config Custom Main Menu
+• update config Foam Fix
+• update config Galacticraft Legacy
 • update config Galaxy Space
-• update config Hammer Lib
-• update config Not Enough Energistics
+• update config Open Computers
+
+• remove mod Galacticraft Core
+• remove mod Galacticraft Planets
+• remove mod Micdoodle Core
